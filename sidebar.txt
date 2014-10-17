@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyt:home|Door43 (kyt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyt|d43-kyt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyt/archive/master.zip|d43-kyt.zip]]
+
+**Recent Changes**
+{{changes>ns = kyt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyt|Ethnologue data]]
+
